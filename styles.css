@@ -1,0 +1,9 @@
+body {
+  background-image: url("images/nature.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+.example {
+  text-align: center;
+}
